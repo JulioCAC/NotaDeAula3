@@ -1,5 +1,6 @@
 # NotaDeAula3
-Repositório referente a terceira nota de aula da cadeira "Linguagem de Programação I" do segundo período do curso de Sistemas de Informação 
+Repositório referente a terceira nota de aula da cadeira "Linguagem de Programação I" do segundo período do curso de Sistemas de Informação.
+
 QUESTÃO 1)
 Elabore um programa que tenha uma super classe chamada Veiculo com os seguintes
 atributos: marca (String), modelo (String) e anoFabricacao (int). Este sistema deve ter
